@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hi there! I'm Trupti Rao 👋
 
-<!--
-**Tripti19-Rao/Tripti19-Rao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👩‍🎓 I'm a recent B.Tech graduate.
+- 🚀 Currently on a journey of learning the MERN stack.
+  
+### 🌱 Currently Learning
 
-Here are some ideas to get you started:
+- MongoDB 🍃
+- Express.js 🚂
+- React.js ⚛️
+- Node.js 🖥️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤝 Connect with Me
+
+- Connect on [LinkedIn]([your-linkedin-profile](https://www.linkedin.com/in/triptidrao/)).
+
+  
+Happy coding! 🎉
