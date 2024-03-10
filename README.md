@@ -12,7 +12,7 @@
 
 ### 🤝 Connect with Me
 
-- Connect on [LinkedIn]((https://www.linkedin.com/in/triptidrao/)).
+- Connect on [LinkedIn](https://www.linkedin.com/in/triptidrao/).
 
   
 Happy coding! 🎉
