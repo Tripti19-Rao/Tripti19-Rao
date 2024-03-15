@@ -1,6 +1,6 @@
 ## Hi there! I'm Trupti Rao 👋
 
-- 👩‍🎓 I'm a recent B.Tech graduate.
+- 👩‍🎓 I'm a B.Tech graduate.
 - 🚀 Currently on a journey of learning the MERN stack.
   
 ### 🌱 Currently Learning
